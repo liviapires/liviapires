@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001C03,20:1e7020,50:19ff1d,70:1e7020,100:001C03&height=120&section=header"/>
     <img src="https://readme-typing-svg.herokuapp.com?color=18971B&vCenter=true&width=170&height=20&lines=Hi,+I'm+Livia!"/>
   <img src="https://komarev.com/ghpvc/?username=liviapires&color=brightgreen&&style=plastic"/>
-  <a  href="https://www.linkedin.com/in/livia-pires-di-onofre/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&color=brightgreen&logo=Linkedin&logoColor=white"/>
-  <a href="https://www.instagram.com/liv_pires/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=plastic&color=brightgreen&logo=Instagram&logoColor=white"/>
+  <a  href="https://www.linkedin.com/in/livia-pires-di-onofre/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&color=brightgreen&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/liv_pires/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=plastic&color=brightgreen&logo=Instagram&logoColor=white"/></a>
 </div>
     
 <div align="center">
