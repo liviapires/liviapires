@@ -15,7 +15,6 @@
   <img src="https://icongr.am/devicon/css3-plain.svg?size=30&color=808080"/>
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=30&color=808080"/>
   <img src="https://icongr.am/devicon/photoshop-plain.svg?size=30&color=808080"/>
-  <img src="https://icongr.am/devicon/mysql-plain.svg?size=30&color=808080"/>
   <img height="30" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"/>
 </div>
     
