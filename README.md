@@ -21,10 +21,5 @@
 ##
     
 <div align="center">
-  <img height="130em" src="https://liviapires.vercel.app/api?username=liviapires&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true&bg_color=001C03&text_color=a3d4a4&title_color=00E016&icon_color=fefefe&hide_border=true"/>
-  <img height="130em" src="https://liviapires.vercel.app/api/top-langs/?username=liviapires&layout=compact&bg_color=001C03&text_color=a3d4a4&title_color=00E016&icon_color=fefefe&hide_border=true"/>
-</div>
-    
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
